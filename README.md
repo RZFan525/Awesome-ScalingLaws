@@ -64,7 +64,7 @@ A curated list of awesome resources dedicated to Scaling Laws for LLMs.
 
 15. **Training Compute-Optimal Large Language Models**
 
-   *Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre* [[paper]](https://arxiv.org/abs/2203.15556) Arxiv 2022.03
+    *Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre* [[paper]](https://arxiv.org/abs/2203.15556) Arxiv 2022.03
  
 16. **Scaling Laws and Interpretability of Learning from Repeated Data**
 
