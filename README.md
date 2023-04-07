@@ -61,24 +61,97 @@ A curated list of awesome resources dedicated to Scaling Laws for LLMs.
 14. **Unified Scaling Laws for Routed Language Models**
 
     *Aidan Clark, Diego de las Casas, Aurelia Guy, Arthur Mensch, Michela Paganini, Jordan Hoffmann, Bogdan Damoc, Blake Hechtman, Trevor Cai, Sebastian Borgeaud, George van den Driessche, Eliza Rutherford, Tom Hennigan, Matthew Johnson, Katie Millican, Albin Cassirer, Chris Jones, Elena Buchatskaya, David Budden, Laurent Sifre, Simon Osindero, Oriol Vinyals, Jack Rae, Erich Elsen, Koray Kavukcuoglu, Karen Simonyan* [[paper]](https://arxiv.org/abs/2202.01169) ICML2022 2022.02
+    
+15. **Data Scaling Laws in NMT: The Effect of Noise and Architecture**
 
-15. **Training Compute-Optimal Large Language Models**
+    *Yamini Bansal, Behrooz Ghorbani, Ankush Garg, Biao Zhang, Maxim Krikun, Colin Cherry, Behnam Neyshabur, Orhan Firat* [[paper]](https://arxiv.org/abs/2202.01994) Arxiv 2022.02
+
+16. **Scaling Laws Under the Microscope: Predicting Transformer Performance from Small Scale Experiments**
+
+    *Maor Ivgi, Yair Carmon, Jonathan Berant* [[paper]](https://arxiv.org/abs/2202.06387) EMNLP2022 2022.02
+
+
+17. **Training Compute-Optimal Large Language Models**
 
     *Jordan Hoffmann, Sebastian Borgeaud, Arthur Mensch, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals, Laurent Sifre* [[paper]](https://arxiv.org/abs/2203.15556) Arxiv 2022.03
  
-16. **Scaling Laws and Interpretability of Learning from Repeated Data**
+18. **Scaling Laws and Interpretability of Learning from Repeated Data**
 
     *Danny Hernandez, Tom Brown, Tom Conerly, Nova DasSarma, Dawn Drain, Sheer El-Showk, Nelson Elhage, Zac Hatfield-Dodds, Tom Henighan, Tristan Hume, Scott Johnston, Ben Mann, Chris Olah, Catherine Olsson, Dario Amodei, Nicholas Joseph, Jared Kaplan, Sam McCandlish* [[paper]](https://arxiv.org/abs/2205.10487) Arxiv 2022.05
+
+19. **Beyond neural scaling laws: beating power law scaling via data pruning**
+
+    *Ben Sorscher, Robert Geirhos, Shashank Shekhar, Surya Ganguli, Ari S. Morcos* [[paper]](https://arxiv.org/abs/2206.14486) NeurIPS2022 2022.06
  
-17. **Transcending Scaling Laws with 0.1% Extra Compute**
+20. **Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?**
+
+    *Yi Tay, Mostafa Dehghani, Samira Abnar, Hyung Won Chung, William Fedus, Jinfeng Rao, Sharan Narang, Vinh Q. Tran, Dani Yogatama, Donald Metzler* [[paper]](https://arxiv.org/abs/2207.10551) Arxiv 2022.07
+    
+21. **Understanding Scaling Laws for Recommendation Models**
+
+    *Newsha Ardalani, Carole-Jean Wu, Zeliang Chen, Bhargav Bhushanam, Adnan Aziz* [[paper]](https://arxiv.org/abs/2208.08489) Arxiv 2022.08
+
+22. **Revisiting Neural Scaling Laws in Language and Vision**
+
+    *Ibrahim Alabdulmohsin, Behnam Neyshabur, Xiaohua Zhai* [[paper]](https://arxiv.org/abs/2209.06640) NeurIPS2022 2022.09
+    
+23. **Scaling Laws For Deep Learning Based Image Reconstruction**
+
+    *Tobit Klug, Reinhard Heckel* [[paper]](https://arxiv.org/abs/2209.13435) ICLR2023 2022.09
+    
+24. **Scaling Laws for a Multi-Agent Reinforcement Learning Model**
+
+    *Oren Neumann, Claudius Gros* [[paper]](https://arxiv.org/abs/2210.00849) Arxiv 2022.10
+    
+25. **How Much Data Are Augmentations Worth? An Investigation into Scaling Laws, Invariance, and Implicit Regularization**
+
+    *Jonas Geiping, Micah Goldblum, Gowthami Somepalli, Ravid Shwartz-Ziv, Tom Goldstein, Andrew Gordon Wilson* [[paper]](https://arxiv.org/abs/2210.06441) ICLR2023 2022.10
+    
+26. **Scaling Laws for Reward Model Overoptimization**
+
+    *Leo Gao, John Schulman, Jacob Hilton* [[paper]](https://arxiv.org/abs/2210.10760) Arxiv 2022.10
+ 
+27. **Transcending Scaling Laws with 0.1% Extra Compute**
 
     *Yi Tay, Jason Wei, Hyung Won Chung, Vinh Q. Tran, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani* [[paper]](https://arxiv.org/abs/2210.11399) Arxiv 2022.10
+
+28. **Scaling Laws Beyond Backpropagation**
+
+    *Matthew J. Filipovich, Alessandro Cappelli, Daniel Hesslow, Julien Launay* [[paper]](https://arxiv.org/abs/2210.14593) NeurIPS2022 2022.10
+    
+29. **Broken Neural Scaling Laws**
+
+    *Ethan Caballero, Kshitij Gupta, Irina Rish, David Krueger* [[paper]](https://arxiv.org/abs/2210.14891) ICLR2023 2022.10
+    
+30. **A Solvable Model of Neural Scaling Laws**
+    
+    *Alexander Maloney, Daniel A. Roberts, James Sully* [[paper]](https://arxiv.org/abs/2210.16859) Arxiv 2022.10
+    
+31. **An Information-Theoretic Analysis of Compute-Optimal Neural Scaling Laws**
+
+    *Hong Jun Jeon, Benjamin Van Roy* [[paper]](https://arxiv.org/abs/2212.01365) Arxiv 2022.12
+
+32. **Reproducible scaling laws for contrastive language-image learning**
+
+    *Mehdi Cherti, Romain Beaumont, Ross Wightman, Mitchell Wortsman, Gabriel Ilharco, Cade Gordon, Christoph Schuhmann, Ludwig Schmidt, Jenia Jitsev* [[paper]](https://arxiv.org/abs/2212.07143) Arxiv 2022.12
+    
+33. **The case for 4-bit precision: k-bit Inference Scaling Laws**
+
+    *Tim Dettmers, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2212.09720) Arxiv 2022.12
+    
+34. **Scaling Laws for Generative Mixed-Modal Language Models**
+
+    *Armen Aghajanyan, Lili Yu, Alexis Conneau, Wei-Ning Hsu, Karen Hambardzumyan, Susan Zhang, Stephen Roller, Naman Goyal, Omer Levy, Luke Zettlemoyer* [[paper]](https://arxiv.org/abs/2301.03728) Arxiv 2023.01
+    
+35. **Scaling laws for single-agent reinforcement learning**
+
+    *Jacob Hilton, Jie Tang, John Schulman* [[paper]](https://arxiv.org/abs/2301.13442) Arxiv 2023.01
  
-18. **Scaling Laws for Multilingual Neural Machine Translation**
+36. **Scaling Laws for Multilingual Neural Machine Translation**
 
     *Patrick Fernandes, Behrooz Ghorbani, Xavier Garcia, Markus Freitag, Orhan Firat* [[paper]](https://arxiv.org/abs/2302.09650) Arxiv 2023.02
 
-19. **GPT-4 Technical Report**
+37. **GPT-4 Technical Report**
 
     *OpenAI* [[paper]](https://arxiv.org/abs/2303.08774) Arxiv 2023.03
 
