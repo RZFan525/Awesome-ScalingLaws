@@ -146,12 +146,16 @@ A curated list of awesome resources dedicated to Scaling Laws for LLMs.
 35. **Scaling laws for single-agent reinforcement learning**
 
     *Jacob Hilton, Jie Tang, John Schulman* [[paper]](https://arxiv.org/abs/2301.13442) Arxiv 2023.01
+    
+36. **Data pruning and neural scaling laws: fundamental limitations of score-based algorithms**
+  
+    *Fadhel Ayed, Soufiane Hayou* [[paper]](https://arxiv.org/abs/2302.06960) Arxiv 2023.02
  
-36. **Scaling Laws for Multilingual Neural Machine Translation**
+37. **Scaling Laws for Multilingual Neural Machine Translation**
 
     *Patrick Fernandes, Behrooz Ghorbani, Xavier Garcia, Markus Freitag, Orhan Firat* [[paper]](https://arxiv.org/abs/2302.09650) Arxiv 2023.02
 
-37. **GPT-4 Technical Report**
+38. **GPT-4 Technical Report**
 
     *OpenAI* [[paper]](https://arxiv.org/abs/2303.08774) Arxiv 2023.03
 
