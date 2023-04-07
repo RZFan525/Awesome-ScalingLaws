@@ -1,5 +1,5 @@
 # Awesome-ScalingLaws [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![](https://img.shields.io/badge/build-welcome%20to%20contribute!-white) [![GitHub stars](https://img.shields.io/github/stars/RZFan525/Awesome-ScalingLaws)](https://github.com/RZFan525/Awesome-ScalingLaws/stargazers)
+![](https://img.shields.io/badge/build-welcome%20to%20contribute!-green) [![GitHub stars](https://img.shields.io/github/stars/RZFan525/Awesome-ScalingLaws)](https://github.com/RZFan525/Awesome-ScalingLaws/stargazers)
 
 A curated list of awesome resources dedicated to Scaling Laws for LLMs.
 
