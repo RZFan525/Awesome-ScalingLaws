@@ -68,15 +68,15 @@ A curated list of awesome resources dedicated to Scaling Laws for LLMs.
  
 16. **Scaling Laws and Interpretability of Learning from Repeated Data**
 
-   *Danny Hernandez, Tom Brown, Tom Conerly, Nova DasSarma, Dawn Drain, Sheer El-Showk, Nelson Elhage, Zac Hatfield-Dodds, Tom Henighan, Tristan Hume, Scott Johnston, Ben Mann, Chris Olah, Catherine Olsson, Dario Amodei, Nicholas Joseph, Jared Kaplan, Sam McCandlish* [[paper]](https://arxiv.org/abs/2205.10487) Arxiv 2022.05
+    *Danny Hernandez, Tom Brown, Tom Conerly, Nova DasSarma, Dawn Drain, Sheer El-Showk, Nelson Elhage, Zac Hatfield-Dodds, Tom Henighan, Tristan Hume, Scott Johnston, Ben Mann, Chris Olah, Catherine Olsson, Dario Amodei, Nicholas Joseph, Jared Kaplan, Sam McCandlish* [[paper]](https://arxiv.org/abs/2205.10487) Arxiv 2022.05
  
 17. **Transcending Scaling Laws with 0.1% Extra Compute**
 
-   *Yi Tay, Jason Wei, Hyung Won Chung, Vinh Q. Tran, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani* [[paper]](https://arxiv.org/abs/2210.11399) Arxiv 2022.10
+    *Yi Tay, Jason Wei, Hyung Won Chung, Vinh Q. Tran, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani* [[paper]](https://arxiv.org/abs/2210.11399) Arxiv 2022.10
  
 18. **Scaling Laws for Multilingual Neural Machine Translation**
 
-   *Patrick Fernandes, Behrooz Ghorbani, Xavier Garcia, Markus Freitag, Orhan Firat* [[paper]](https://arxiv.org/abs/2302.09650) Arxiv 2023.02
+    *Patrick Fernandes, Behrooz Ghorbani, Xavier Garcia, Markus Freitag, Orhan Firat* [[paper]](https://arxiv.org/abs/2302.09650) Arxiv 2023.02
 
 19. **GPT-4 Technical Report**
 
