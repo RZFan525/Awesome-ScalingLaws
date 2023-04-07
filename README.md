@@ -42,5 +42,5 @@ A curated list of awesome resources dedicated to Scaling Laws for LLMs.
 
 10. **GPT-4 Technical Report**
 
-   *OpenAI* [[paper]](https://arxiv.org/abs/2303.08774) Arxiv 2023.03
+    *OpenAI* [[paper]](https://arxiv.org/abs/2303.08774) Arxiv 2023.03
 
