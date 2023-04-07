@@ -1,9 +1,12 @@
 # Awesome-ScalingLaws [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/badge/build-welcome%20to%20contribute!-brightgreen) [![GitHub Stars](https://img.shields.io/github/stars/RZFan525/Awesome-ScalingLaws?style=social)](https://github.com/RZFan525/Awesome-ScalingLaws/stargazers)
 
-A curated list of awesome resources dedicated to Scaling Laws for LLMs.
+A curated list of awesome resources dedicated to Scaling Laws for LLMs (Large Language Models).
 
 **Contributing**: Please feel free to make *[pull requests](https://github.com/RZFan525/Awesome-ScalingLaws/pulls)*.
+
+What's the Scaling Laws of LLMs? It means that the test loss of a model can be predicted using a power-law when performance is limited by only either the number of model's parameters, the dataset size, or the optimally allocated compute budget.
+
 
 ## Papers
 1. **Deep Learning Scaling is Predictable, Empirically**
