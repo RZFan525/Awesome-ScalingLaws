@@ -162,3 +162,7 @@ What's the Scaling Laws of LLMs? It means that the test loss of a model can be p
 
     *OpenAI* [[paper]](https://arxiv.org/abs/2303.08774) Arxiv 2023.03
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=RZFan525/Awesome-ScalingLaws&type=Date)](https://star-history.com/#RZFan525/Awesome-ScalingLaws&Date)
+
